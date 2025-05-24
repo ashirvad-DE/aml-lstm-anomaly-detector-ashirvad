@@ -1,0 +1,6 @@
+# Ignore large files
+data/*.csv
+data/*.npydata/*.csv
+data/*.npy
+data/*.csv
+data/*.npy
